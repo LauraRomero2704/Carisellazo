@@ -1,6 +1,6 @@
 <h1 align="center"> Carisellazo </h1>
 
-<p align="center" style="with: 50px;"><img src="Carisellazo.png"/></p> 
+<p align="center"><img src="Carisellazo.png"/></p> 
 
 
 
