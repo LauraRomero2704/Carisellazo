@@ -1,4 +1,5 @@
 <h1 align="center"> Carisellazo </h1>
+<h4 align="center"> Juego de carisellazo desde consola, donde puedes apostar dinero y ganas si aciertas en que lado cayo la moneda, ¿Estas listo? </h4>
 
 <p align="center"><img src="Carisellazo.png"/></p> 
 
